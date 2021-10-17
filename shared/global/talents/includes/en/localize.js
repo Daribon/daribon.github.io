@@ -13,7 +13,7 @@ var textLeftClick = "Left Click to Learn"
 var textRightClick = "Right Click to Unlearn"
 var textRankColon = "Rank:"
 var textToSave = "To save the template for future reference, copy the URL below:";
-var theURLtoCopy = "https://127.0.0.1/en/info/basics/talents/"+ nlclass +"/talents.html";
+var theURLtoCopy = "https://daribon.github.io/en/info/basics/talents/"+ nlclass +"/talents.html";
 var textNextRank = "Next Rank:";
 var requiresRequires = "Requires";
 var requiresPointsIn = "points in";
@@ -105,17 +105,4 @@ function printableVersion() {
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 292.693
-  exclusion.robots: 0.201
-  exclusion.robots.policy: 0.189
-  RedisCDXSource: 1.497
-  esindex: 0.014
-  LoadShardBlock: 264.772 (3)
-  PetaboxLoader3.datanode: 359.071 (4)
-  CDXLines.iter: 22.369 (3)
-  load_resource: 348.692
-  PetaboxLoader3.resolve: 246.96
 */
