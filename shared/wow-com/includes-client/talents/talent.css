@@ -156,7 +156,6 @@ table { font-size: 12px; }
 .treePadding {padding: 0px 10px 0 10px;}
 .talenttreename { height:27px; line-height:27px; position: relative; left: -3px;}
 .talenttreeicon { width:27px; height:27px; position: relative; left: 4px; }
-img.p {behavior: url("../../../../shared/wow-com/includes-client/pngBehavior.htc");}
 
 #replaceMeWithTalents {margin-top:6px; _margin-top:20px;}
 
@@ -221,9 +220,6 @@ img.p {behavior: url("../../../../shared/wow-com/includes-client/pngBehavior.htc
 			left: -20px;
 			z-index: 100;
        }
-img.tpng { 
-	behavior: url("../../../../shared/wow-com/includes-client/pngBehavior.htc"); 
-}
 /*
      FILE ARCHIVED ON 16:40:01 Oct 13, 2007 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 17:05:23 Sep 08, 2021.
@@ -231,17 +227,4 @@ img.tpng {
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 142.516
-  exclusion.robots: 0.083
-  exclusion.robots.policy: 0.076
-  RedisCDXSource: 4.024
-  esindex: 0.007
-  LoadShardBlock: 116.323 (3)
-  PetaboxLoader3.datanode: 127.433 (4)
-  CDXLines.iter: 19.376 (3)
-  load_resource: 78.05
-  PetaboxLoader3.resolve: 43.492
 */
