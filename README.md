@@ -8,3 +8,6 @@ For the files themself, almost everything is exactly the same how it was. I had 
 Made using heavy usage of wayback machine.
 
 Due to the nature of this project, its possible to import old talent data from wayback machine, if you wanna go pre 1.12.1.
+
+Preview:
+https://daribon.github.io/en/info/basics/talents/druid/talents.html
