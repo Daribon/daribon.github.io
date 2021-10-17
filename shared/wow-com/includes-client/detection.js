@@ -1,15 +1,3 @@
-var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
-if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
-{
-  let window = _____WB$wombat$assign$function_____("window");
-  let self = _____WB$wombat$assign$function_____("self");
-  let document = _____WB$wombat$assign$function_____("document");
-  let location = _____WB$wombat$assign$function_____("location");
-  let top = _____WB$wombat$assign$function_____("top");
-  let parent = _____WB$wombat$assign$function_____("parent");
-  let frames = _____WB$wombat$assign$function_____("frames");
-  let opener = _____WB$wombat$assign$function_____("opener");
-
     var agt=navigator.userAgent.toLowerCase();
     var appVer = navigator.appVersion.toLowerCase();
 
@@ -199,9 +187,6 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
          is_FlashVersion = parseInt(plugin.description.substring(plugin.description.indexOf(".")-1));
       }
    }
-
-
-}
 /*
      FILE ARCHIVED ON 09:43:41 Oct 15, 2007 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 17:06:08 Sep 08, 2021.
@@ -209,17 +194,4 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 105.854
-  PetaboxLoader3.resolve: 62.434
-  exclusion.robots.policy: 0.124
-  LoadShardBlock: 78.348 (3)
-  RedisCDXSource: 6.245
-  PetaboxLoader3.datanode: 92.418 (4)
-  esindex: 0.011
-  exclusion.robots: 0.134
-  CDXLines.iter: 17.582 (3)
-  load_resource: 90.227
 */

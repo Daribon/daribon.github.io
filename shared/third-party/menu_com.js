@@ -1,15 +1,3 @@
-var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
-if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
-{
-  let window = _____WB$wombat$assign$function_____("window");
-  let self = _____WB$wombat$assign$function_____("self");
-  let document = _____WB$wombat$assign$function_____("document");
-  let location = _____WB$wombat$assign$function_____("location");
-  let top = _____WB$wombat$assign$function_____("top");
-  let parent = _____WB$wombat$assign$function_____("parent");
-  let frames = _____WB$wombat$assign$function_____("frames");
-  let opener = _____WB$wombat$assign$function_____("opener");
-
 /************************************************************************************
 	(c) Ger Versluis 2000 version 5.5 24 December 2001 (updated Jan 31st, 2003 by Dynamic Drive for Opera7)
 	Updated 19 July, 2003 by GV for CSS CompatMode	
@@ -567,8 +555,6 @@ function CreateMenuStructureAgain(MName,NumberOf){
 		if(NoOffSubs)Mbr.ChildCntnr=CreateMenuStructure(WMnu+'_',NoOffSubs);
 		Mbr=Mbr.PrvMbr}
 	RcrsLvl--}
-
-}
 /*
      FILE ARCHIVED ON 05:11:37 Oct 13, 2007 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 17:05:45 Sep 08, 2021.
@@ -576,17 +562,4 @@ function CreateMenuStructureAgain(MName,NumberOf){
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
      SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  esindex: 0.011
-  captures_list: 170.016
-  PetaboxLoader3.resolve: 27.659
-  exclusion.robots.policy: 0.132
-  RedisCDXSource: 6.751
-  LoadShardBlock: 139.6 (3)
-  PetaboxLoader3.datanode: 144.095 (4)
-  load_resource: 62.959
-  exclusion.robots: 0.142
-  CDXLines.iter: 19.851 (3)
 */
